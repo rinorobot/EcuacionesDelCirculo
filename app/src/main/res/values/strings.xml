@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Práctica1</string>
+
+
+    <string name="calcular">Calcular</string>
+    <string name="pregunta">¿Qué deseas hacer?</string>
+    <string name="ordinaria">Ecuación ordinaria</string>
+    <string name="general">Ecuación general</string>
+    <string name="area">El radio a partir de su centro y un punto es</string>
+    <string name="area_resul">%.3f</string>
+    <string name="ordinaria_resul">(x-%.2f)^2+(y-%.2f)^2=%.2f</string>
+    <string name="general_resul">"x^2+y^2+(%.2f)x +(%.2f)y +(%.2f) = 0"</string>
+    <string name="requerir">Ingresa un número</string>
+    <string name="hint_a">a</string>
+    <string name="hint_b">b</string>
+    <string name="hint_r">r</string>
+    <string name="hint_x">x</string>
+    <string name="hint_y">y</string>
+    <string name="version">Versión 1.0</string>
+    <string name="creador">Creado por Salvador Gómez Moya</string>
+    <string name="radio_aviso">El radio debe ser más grande que </string>
+    <string name="elige_formula">Debes elegiar una fórmula</string>
+
+
+    <string-array name="equations_array">
+        <item>Elige aquí</item>
+        <item>Forma estándar</item>
+        <item>Forma general</item>
+        <item>Radio</item>
+
+    </string-array>
+</resources>

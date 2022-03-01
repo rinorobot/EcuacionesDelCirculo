@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Práctica1</string>
+    <string name="calcular">Calculate</string>
+    <string name="pregunta">What do you want to do?</string>
+    <string name="ordinaria">ordinary equation</string>
+    <string name="general">general equation</string>
+    <string name="area">The radius from its center and a point is</string>
+    <string name="area_resul">%.3f</string>
+    <string name="ordinaria_resul">(x-%.2f)^2+(y-%.2f)^2=%.2f</string>
+    <string name="general_resul">"x^2+y^2+(%.2f)x +(%.2f)y +(%.2f) = 0"</string>
+    <string name="requerir">Enter a number</string>
+    <string name="hint_a">a</string>
+    <string name="hint_b">b</string>
+    <string name="hint_r">r</string>
+    <string name="hint_x">x</string>
+    <string name="hint_y">y</string>
+    <string name="version">Version 1.0</string>
+    <string name="creador">Powered by Salvador Gómez Moya</string>
+    <string name="radio_aviso">Radius should be larger than</string>
+    <string name="elige_formula">Select a equiation first</string>
+
+
+    <string-array name="equations_array">
+        <item>Choose here</item>
+        <item>Ordinary equation</item>
+        <item>General equation</item>
+        <item>Radius</item>
+
+    </string-array>
+</resources>
